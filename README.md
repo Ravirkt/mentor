@@ -17,3 +17,16 @@ The ugly
 
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
+
+# Leervragen
+- Hoe gaat reflecteren op je mentor rol je helpen met het verbeteren van je skills?
+  -  Ik kan terugkijken naar mijn eigen gedrag tijdens het mentoren waardoor ik mijn goede en slechte punten kan onderscheiden.
+ 
+- Wat maakt een goede mentor?
+  - Iemand die goed kan luisteren, doorvraagt en initiatief toont om te helpen
+ 
+- Hoe zie jij je in de toekomst developers opleiden?
+  - technische diepgang argumenten
+  - doorvragen om het probleem goed te gebruiken
+ 
+  -  

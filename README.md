@@ -33,3 +33,9 @@ This project is licensed under the terms of the [MIT license](./LICENSE).
 - https://github.com/Jadonfdnd/all-human-accessible-website/issues/7
 - https://github.com/handouh1/all-human-accessible-website/issues/1
 - https://github.com/addaahva/all-human-accessible-website/issues/1
+
+
+27-10-25
+Mentor
+
+Ik heb samen de workshop gevolgd over kleuren en contrast. Vervolgens heb ik uitgelegd hoe je text over een image kan positioneren met position en de html structuur. en hoe je met css een image kleur donker kan maken door middel van filter grayscal. Ook hebben een aantal 1ste klassers hun presentatie gegeven over de WCAG test. Ik heb hier voorvolgens feedback op gegeven.

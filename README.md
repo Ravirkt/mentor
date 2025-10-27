@@ -29,4 +29,7 @@ This project is licensed under the terms of the [MIT license](./LICENSE).
   - technische diepgang argumenten
   - doorvragen om het probleem goed te gebruiken
  
-  -  
+**link naar feedback**
+- https://github.com/Jadonfdnd/all-human-accessible-website/issues/7
+- https://github.com/handouh1/all-human-accessible-website/issues/1
+- https://github.com/addaahva/all-human-accessible-website/issues/1

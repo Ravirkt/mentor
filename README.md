@@ -43,8 +43,8 @@ Ik heb samen de workshop gevolgd over kleuren en contrast. Vervolgens heb ik uit
 
 ------------------
 
-Beschrijf bij elk van je taken als mentor de extremen van het "tekort" en "teveel" en maak hier een lijn van:
-                    top
+**Beschrijf bij elk van je taken als mentor de extremen van het "tekort" en "teveel" en maak hier een lijn van:
+**                    top
 Tekort --------------|-------------- Teveel
 
 / = 'Mijn inschatting'
@@ -73,8 +73,8 @@ Tekort --------------|-/--.----------- Teveel
 
 --------------
 
-Bepaal per taak het punt waar je na volgende periode zou willen staan.
-
+**Bepaal per taak het punt waar je na volgende periode zou willen staan.
+**
 - Je bent één keer per week aanwezig op het afgesproken moment
 Tekort --------------|/-------------- Teveel
 
@@ -96,7 +96,7 @@ Tekort --------------|-----------/--- Teveel
 - Je geeft feedback in issues van eerstejaars
 Tekort --------------|-----------/--- Teveel
 
-Formuleer verbeterpunten in je mentorschap om de gewenste positie te bereiken. Neem in je overweging de eerder voorgenomen verbeteringen mee.
+**Formuleer verbeterpunten in je mentorschap om de gewenste positie te bereiken. Neem in je overweging de eerder voorgenomen verbeteringen mee.**
 
 Wat ik de volgende keer kan verbeteren is het vaker afstappen op de eerstejaars. Ik vraag wel vaak of ze hulp nodig hebben waarbij ze vaak nee zeggen. Inplaats hiervan kan ik meer globale vragen stellen die met de studie te maken hebben maar niet perse met het werk als 'welk project heb je?' en vanuit dat punt verder induiken op het techniek. Ook kan ik vaker feedback geven in issue's. Door bijvoorbeeld een berichtje te versturen op github met bronnen gerelateerd aan de vraag.
 

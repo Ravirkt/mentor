@@ -1,114 +1,125 @@
-# Mentor
+# 🧑‍🏫 Mentor
 
-# 1. The good, the bad & the ugly (15-09-2025)
+# 1. 🌟 The good, the bad & the ugly (15-09-2025)
 
-The good
+### ✅ The good
 - Ik denk dat ik de technische redelijk goed kan uitleggen aan een persoon
 
-The bad
+### ⚠️ The bad
 - Overhaastig iets uitleggen aan de persoon. Als er bijvoorbeeld de vraag is hoe je iets kan doen. Dan geef ik vaak gelijk de css property zonder extra context of uitleg waarom dit werkt.
 
-The ugly
+### 💀 The ugly
 - Ik vraag niet door of het persoon hulp nodig heeft of niet. Ik zeg meestal als je hulp nodig hebt kun je het vragen.
 
-# 2. 2 Verbeterpunten die ik ga oppakken
+---
+
+# 2. 🛠️ 2 Verbeterpunten die ik ga oppakken
 - Meer aandringen om te helpen
-- Meer tijd nemen voor het uitleggen;
+- Meer tijd nemen voor het uitleggen
 
-## Licentie
-This project is licensed under the terms of the [MIT license](./LICENSE).
+---
 
-# Leervragen
+# ❓ Leervragen
 - Hoe gaat reflecteren op je mentor rol je helpen met het verbeteren van je skills?
-  -  Ik kan terugkijken naar mijn eigen gedrag tijdens het mentoren waardoor ik mijn goede en slechte punten kan onderscheiden.
+  - Ik kan terugkijken naar mijn eigen gedrag tijdens het mentoren waardoor ik mijn goede en slechte punten kan onderscheiden.
  
 - Wat maakt een goede mentor?
   - Iemand die goed kan luisteren, doorvraagt en initiatief toont om te helpen
  
 - Hoe zie jij je in de toekomst developers opleiden?
-  - technische diepgang argumenten
-  - doorvragen om het probleem goed te gebruiken
+  - Technische diepgang argumenten
+  - Doorvragen om het probleem goed te gebruiken
+
+---
  
-**link naar feedback**
+
+# 📅 27-10-25 Mentor
+Ik heb samen de workshop gevolgd over kleuren en contrast. Vervolgens heb ik uitgelegd hoe je text over een image kan positioneren met `position` en de HTML structuur, en hoe je met CSS een image kleur donker kan maken door middel van `filter: grayscale`. Ook hebben een aantal 1ste klassers hun presentatie gegeven over de WCAG test. Ik heb hier vervolgens feedback op gegeven.
+
+**🔗 Link naar feedback**
 - https://github.com/Jadonfdnd/all-human-accessible-website/issues/7
 - https://github.com/handouh1/all-human-accessible-website/issues/1
 - https://github.com/addaahva/all-human-accessible-website/issues/1
 
+---
 
-27-10-25
-Mentor
+# 📊 Taken en evaluatie
+**Beschrijf bij elk van je taken als mentor de extremen van het "tekort" en "teveel" en maak hier een lijn van:**  
 
-Ik heb samen de workshop gevolgd over kleuren en contrast. Vervolgens heb ik uitgelegd hoe je text over een image kan positioneren met position en de html structuur. en hoe je met css een image kleur donker kan maken door middel van filter grayscal. Ook hebben een aantal 1ste klassers hun presentatie gegeven over de WCAG test. Ik heb hier voorvolgens feedback op gegeven.
+Top  
+Tekort --------------|-------------- Teveel  
 
-
-------------------
-
-**Beschrijf bij elk van je taken als mentor de extremen van het "tekort" en "teveel" en maak hier een lijn van:
-**                    top
-Tekort --------------|-------------- Teveel
-
-/ = 'Mijn inschatting'
+/ = 'Mijn inschatting'  
 . = 'Mijn inschatting op basis van feedback eerstejaars'
 
-- Je bent één keer per week aanwezig op het afgesproken moment
+- Je bent één keer per week aanwezig op het afgesproken moment  
 Tekort -----------\-.--|-------------- Teveel
 
-- Je stapt actief op eerstejaars studenten af om ze te helpen
+- Je stapt actief op eerstejaars studenten af om ze te helpen  
 Tekort -------/---.----|-------------- Teveel
 
-- Je luistert, vat samen en vraagt door bij het helpen van studenten
+- Je luistert, vat samen en vraagt door bij het helpen van studenten  
 Tekort --------------|-------/---.---- Teveel
 
-- Je bereidt de workshops voor en helpt de studenten bij de opdracht die ze krijgen
+- Je bereidt de workshops voor en helpt de studenten bij de opdracht die ze krijgen  
 Tekort ------------/--|--------.------ Teveel
 
-- Je beantwoordt vragen over HTML, CSS en JS
+- Je beantwoordt vragen over HTML, CSS en JS  
 Tekort --------------|--------/---.--- Teveel
 
-- Je doet code/design reviews op leertaken
+- Je doet code/design reviews op leertaken  
 Tekort ---/-.----------|-------------- Teveel
 
-- Je geeft feedback in issues van eerstejaars
+- Je geeft feedback in issues van eerstejaars  
 Tekort --------------|-/--.----------- Teveel
 
---------------
+---
 
-**Bepaal per taak het punt waar je na volgende periode zou willen staan.
-**
-- Je bent één keer per week aanwezig op het afgesproken moment
+# 🎯 Doelen voor de volgende periode
+- Je bent één keer per week aanwezig op het afgesproken moment  
 Tekort --------------|/-------------- Teveel
 
-- Je stapt actief op eerstejaars studenten af om ze te helpen
+- Je stapt actief op eerstejaars studenten af om ze te helpen  
 Tekort --------------|/-------------- Teveel
 
-- Je luistert, vat samen en vraagt door bij het helpen van studenten
+- Je luistert, vat samen en vraagt door bij het helpen van studenten  
 Tekort --------------|-----------/--- Teveel
 
-- Je bereidt de workshops voor en helpt de studenten bij de opdracht die ze krijgen
+- Je bereidt de workshops voor en helpt de studenten bij de opdracht die ze krijgen  
 Tekort --------------|---/----------- Teveel
 
-- Je beantwoordt vragen over HTML, CSS en JS
+- Je beantwoordt vragen over HTML, CSS en JS  
 Tekort --------------|----------/---- Teveel
 
-- Je doet code/design reviews op leertaken
+- Je doet code/design reviews op leertaken  
 Tekort --------------|-----------/--- Teveel
 
-- Je geeft feedback in issues van eerstejaars
+- Je geeft feedback in issues van eerstejaars  
 Tekort --------------|-----------/--- Teveel
 
-**Formuleer verbeterpunten in je mentorschap om de gewenste positie te bereiken. Neem in je overweging de eerder voorgenomen verbeteringen mee.**
 
-Wat ik de volgende keer kan verbeteren is het vaker afstappen op de eerstejaars. Ik vraag wel vaak of ze hulp nodig hebben waarbij ze vaak nee zeggen. Inplaats hiervan kan ik meer globale vragen stellen die met de studie te maken hebben maar niet perse met het werk als 'welk project heb je?' en vanuit dat punt verder induiken op het techniek. Ook kan ik vaker feedback geven in issue's. Door bijvoorbeeld een berichtje te versturen op github met bronnen gerelateerd aan de vraag.
+---
+
+# 🚓 Ontvangen feedback
+<img src="https://github.com/user-attachments/assets/749bf580-205c-4ca0-bfd1-1413a5b1f0a5" alt="Image 17" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/7074a1a6-aa75-4acf-bdc4-8bf30feca062" alt="Image 16" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/6c9e86b1-2a2d-4b6a-850d-296d73949ef2" alt="Image 18" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/e5ff3e8c-e203-4e5a-9a04-255645db75e9" alt="Image 19" width="300"/>
 
 
 
+---
 
+# 📈 Verbeterpunten voor mentorschap
+Wat ik de volgende keer kan verbeteren is het vaker afstappen op de eerstejaars. Ik vraag wel vaak of ze hulp nodig hebben waarbij ze vaak nee zeggen. In plaats hiervan kan ik meer globale vragen stellen die met de studie te maken hebben maar niet per se met het werk, zoals 'Welk project heb je?' en vanuit dat punt verder induiken op het techniek. Ook kan ik vaker feedback geven in issues door bijvoorbeeld een berichtje te versturen op GitHub met bronnen gerelateerd aan de vraag.
 
+---
 
-
-
-
-
+## 📄 Licentie
+This project is licensed under the terms of the [MIT license](./LICENSE).
 
 
 

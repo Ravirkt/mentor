@@ -124,5 +124,13 @@ This project is licensed under the terms of the [MIT license](./LICENSE).
 
 
 
+Ontvangen feedback:
+
+https://github.com/Mete2004/the-startup-responsive-interactive-website/issues/7#issuecomment-3738040903
+https://github.com/Mete2004/the-startup-responsive-interactive-website/issues/2#issuecomment-3737982404
+
+
+
+
 
 

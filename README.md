@@ -118,23 +118,18 @@ Wat ik de volgende keer kan verbeteren is het vaker afstappen op de eerstejaars.
 
 ---
 
+## 🛟 Links naar gegeven feedback:
+- https://github.com/Mete2004/the-startup-responsive-interactive-website/issues/7#issuecomment-3738040903
+- https://github.com/Mete2004/the-startup-responsive-interactive-website/issues/2#issuecomment-3737982404
+- https://github.com/Anass-KH/the-startup-responsive-interactive-website/issues/13
+- https://github.com/Ayoubkh1/the-startup-responsive-interactive-website/issues/7
+- https://github.com/yassineAk1/the-startup-responsive-interactive-website/issues/11
+- https://github.com/yassineAk1/the-startup-responsive-interactive-website/issues/10
+
 ## 📄 Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
 
 
-
-
-Ontvangen feedback:
-
-https://github.com/Mete2004/the-startup-responsive-interactive-website/issues/7#issuecomment-3738040903
-https://github.com/Mete2004/the-startup-responsive-interactive-website/issues/2#issuecomment-3737982404
-
-
-feedback gegeven
-https://github.com/Anass-KH/the-startup-responsive-interactive-website/issues/13
-https://github.com/Ayoubkh1/the-startup-responsive-interactive-website/issues/7
-https://github.com/yassineAk1/the-startup-responsive-interactive-website/issues/11
-https://github.com/yassineAk1/the-startup-responsive-interactive-website/issues/10
 
 
 
